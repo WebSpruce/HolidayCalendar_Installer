@@ -29,6 +29,8 @@ In group settings, you can find and regenerate your join key. You are also able 
 
 The number of days off is calculated based on whether the current date is between October 1st and December 31st or between January 1st and September 30th. Every year, you receive a default value of days off, and you must use your old vacation days by September 30th, unless they will be removed after that date.
 
+**<a href="https://appetize.io/app/mwze3fwo4nlcbscx5ntg7qw2ve?device=pixel7&osVersion=13.0" target=”_blank” style="font-size: 20px; color:#99aab5 ;">--> ONLINE DEMO AVAILABLE HERE <--</a>**
+
 <details>
 
 <summary>Screenshots</summary>
