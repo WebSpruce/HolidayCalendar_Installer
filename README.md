@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/version-v1.0.3-brightgreen.svg)](https://github.com/WebSpruce/HolidayCalendar_Installer/releases)
 
 ## 📸Holiday Calendar
-<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img 
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot">
 
 ### 🗜️The solution structure
 
