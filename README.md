@@ -1,7 +1,17 @@
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Version](https://img.shields.io/badge/version-v1.0.3-brightgreen.svg)](https://github.com/WebSpruce/HolidayCalendar_Installer/releases)
 
-### The solution structure
+### 📸Screenshots
+
+| | |
+| --- | --- |
+| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/1.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/2.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | 
+| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/3.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/4.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | 
+|<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/5.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/6.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot">
+| 
+|<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/7.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> |
+
+### 🗜️The solution structure
 
 | Project | Features | Nugets |
 | --- | --- | --- |
@@ -10,41 +20,25 @@
 | `MODELS` |
 | `SERVICES` | Repository Pattern |
 
-### Features
+### 📙Features
 
 > [!IMPORTANT]
-> The app is on android and windows devices. <br>(_On windows device you have to install .NET 8.0 Runtime <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime?cid=getdotnetcore&os=windows&arch=x64">you can install it from here</a> <br> (it also will show you information about it before installation)_)
+> The app is available on android and windows devices. <br>(_On windows device you have to install .NET 8.0 Runtime <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime?cid=getdotnetcore&os=windows&arch=x64">you can install it from here</a> <br> (it also will show you information about it before installation)_)
 
-The app is on Android and Windows devices.
-The app has a light and dark mode depends of the theme set in the device
+The application is compatible with Android and Windows devices. 📱💻
+Featuring both light and dark modes, the app dynamically adjusts based on the theme set on the device. 🌗
 
-Every user has a role and is assigned to a group and branch.
+Each user is assigned a specific role within a group and branch. 👥🌐
 
-From the homepage, you can quickly add a new request for holidays, go to the calendar view, display a list of employees from your group, and see recently accepted events.
-In the calendar view, you can see your accepted holidays, your branch, or a selected branch.
-When you select a day in the calendar, it shows event information if there is an event on that day.
-You can quickly find contact information for your company’s friends in the list of employees window.
-As an administrator, you can approve or cancel requests, edit users, and change group settings if needed.
-In group settings, you can find and regenerate your join key. You are also able to set the country for your calendar (it shows events for the entire year in the selected country). Additionally, you can add or remove branches.
+From the homepage, users can efficiently submit new holiday requests, navigate to the calendar view, display a list of employees within their group, and review recently accepted events. In the calendar view, users can observe their approved holidays, view events related to their branch, or choose a specific branch. When a day is selected on the calendar, event information is displayed if there is an event scheduled for that day. 📅📆
 
-The number of days off is calculated based on whether the current date is between October 1st and December 31st or between January 1st and September 30th. Every year, you receive a default value of days off, and you must use your old vacation days by September 30th, unless they will be removed after that date.
+The list of employees window facilitates the quick retrieval of contact information for colleagues. Administrators have the authority to approve or cancel the requests, edit user profiles, and adjust group settings as necessary. Within the group settings, administrators can find and regenerate join keys. Moreover, administrators have the ability to set the country for the calendar, displaying events for the entire year in the selected country. Additional functionalities include the capacity to add or remove branches. ⚙️🌍
+
+The calculation of days off is based on whether the current date falls between October 1st and December 31st or between January 1st and September 30th. On an annual basis, users are provided with a default allocation of days off, and it is imperative to utilize any unused vacation days by September 30th, as they will be forfeited after that date. ⏰🗓️
 
 **<a href="https://appetize.io/app/mwze3fwo4nlcbscx5ntg7qw2ve?device=pixel7&osVersion=13.0" target=”_blank” style="font-size: 20px; color:#99aab5 ;">--> ONLINE DEMO AVAILABLE HERE <--</a>**
 
-<details>
-
-<summary>Screenshots</summary>
-
-| | | |
-| --- | --- | --- |
-| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/1.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/2.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/3.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot">
-| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/4.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/5.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/6.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot">
-| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/7.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> |
-
-
-</details>
-
-### Main Tasks
+### 📝Main Tasks
 
 - [x] The company has a unique join key, which can be changed in group settings.
 - [x] The Calendar View shows accepted holidays for our company, our branch, or a selected branch. It displays events in the calendar with accepted status.
