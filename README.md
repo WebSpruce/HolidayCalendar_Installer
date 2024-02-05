@@ -1,15 +1,8 @@
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Version](https://img.shields.io/badge/version-v1.0.3-brightgreen.svg)](https://github.com/WebSpruce/HolidayCalendar_Installer/releases)
 
-### 📸Screenshots
-
-| | |
-| --- | --- |
-| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/1.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/2.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | 
-| <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/3.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/4.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | 
-|<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/5.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/6.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot">
-| 
-|<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/7.jpg?raw=true" height="400" alt="Holiday Calendar Screenshot"> |
+## 📸Holiday Calendar
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot"> | <img 
 
 ### 🗜️The solution structure
 
