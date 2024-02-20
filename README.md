@@ -1,9 +1,10 @@
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Version](https://img.shields.io/badge/version-v1.0.3-brightgreen.svg)](https://github.com/WebSpruce/HolidayCalendar_Installer/releases)
 
+**<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#the-solution-structure" >The solution structure</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#features" >Features</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#main-tasks">Main Tasks</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#unit-tests">Unit Tests</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#api">Api</a>**
+
 ## 📸Holiday Calendar
 <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot">
-<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/unitTests.PNG" height="400" alt="Holiday Calendar Unit Tests">
 
 **<a href="https://appetize.io/app/mwze3fwo4nlcbscx5ntg7qw2ve?device=pixel7&osVersion=13.0" target=”_blank” style="font-size: 20px; color:#99aab5 ;">--> ONLINE DEMO AVAILABLE HERE <--</a>**
 
@@ -51,5 +52,14 @@ Background Services in API:
 - [x] The company ID is removed from the user if the company doesn't exist.
 - [x] Firebase authentication has been implemented. 
 
-Unit Tests:
+### 🗒API
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api1.PNG" height="400" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api2.PNG" height="400" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api3.PNG" height="400" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api4.PNG" height="400" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api5.PNG" height="400" alt="Holiday Calendar Api">
+
+
+### 🧪Unit Tests:
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/unitTests.PNG" height="400" alt="Holiday Calendar Unit Tests">
 - [x] Unit Tests (Services, Models, Api)
