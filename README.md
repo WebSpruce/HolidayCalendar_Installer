@@ -1,7 +1,7 @@
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Version](https://img.shields.io/badge/version-v1.0.3-brightgreen.svg)](https://github.com/WebSpruce/HolidayCalendar_Installer/releases)
 
-**<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#the-solution-structure" >The solution structure</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#features" >Features</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#main-tasks">Main Tasks</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#unit-tests">Unit Tests</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#api">Api</a>**
+**<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#the-solution-structure" >The solution structure</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#features" >Features</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#main-tasks">Main Tasks</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer?tab=readme-ov-file#unit-tests">Unit Tests</a>** - **<a href="https://github.com/WebSpruce/HolidayCalendar_Installer#api">Api</a>**
 
 ## 📸Holiday Calendar
 <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot">
@@ -55,9 +55,9 @@ Background Services in API:
 ### 🗒API
 <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api1.PNG" height="400" alt="Holiday Calendar Api">
 <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api2.PNG" height="400" alt="Holiday Calendar Api">
-<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api3.PNG" height="400" alt="Holiday Calendar Api">
-<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api4.PNG" height="400" alt="Holiday Calendar Api">
-<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api5.PNG" height="400" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api3.PNG" height="300" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api4.PNG" height="300" alt="Holiday Calendar Api">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/api5.PNG" height="300" alt="Holiday Calendar Api">
 
 
 ### 🧪Unit Tests:
