@@ -4,6 +4,8 @@
 ## 📸Holiday Calendar
 <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot">
 
+**<a href="https://appetize.io/app/mwze3fwo4nlcbscx5ntg7qw2ve?device=pixel7&osVersion=13.0" target=”_blank” style="font-size: 20px; color:#99aab5 ;">--> ONLINE DEMO AVAILABLE HERE <--</a>**
+
 ### 🗜️The solution structure
 
 | Project | Features | Nugets |
@@ -12,6 +14,7 @@
 | `ASP API` | DTO, <br>Object Mapping, <br>Background Services, <br>Repository Pattern, <br>Dependency Injection |AutoMapper, <br> BCrypt.Net-Next, <br>FirebaseAuthentication.net
 | `MODELS` |
 | `SERVICES` | Repository Pattern |
+| `TESTS` | unit tests | xUnit, Fluent Assertions, Moq |
 
 ### 📙Features
 
@@ -28,8 +31,6 @@ From the homepage, users can efficiently submit new holiday requests, navigate t
 The list of employees window facilitates the quick retrieval of contact information for colleagues. Administrators have the authority to approve or cancel the requests, edit user profiles, and adjust group settings as necessary. Within the group settings, administrators can find and regenerate join keys. Moreover, administrators have the ability to set the country for the calendar, displaying events for the entire year in the selected country. Additional functionalities include the capacity to add or remove branches. ⚙️🌍
 
 The calculation of days off is based on whether the current date falls between October 1st and December 31st or between January 1st and September 30th. On an annual basis, users are provided with a default allocation of days off, and it is imperative to utilize any unused vacation days by September 30th, as they will be forfeited after that date. ⏰🗓️
-
-**<a href="https://appetize.io/app/mwze3fwo4nlcbscx5ntg7qw2ve?device=pixel7&osVersion=13.0" target=”_blank” style="font-size: 20px; color:#99aab5 ;">--> ONLINE DEMO AVAILABLE HERE <--</a>**
 
 ### 📝Main Tasks
 
@@ -48,3 +49,6 @@ Background Services in API:
 - [x] User calendar events are removed if the user or calendar event doesn't exist.
 - [x] The company ID is removed from the user if the company doesn't exist.
 - [x] Firebase authentication has been implemented. 
+
+Unit Tests:
+- [x] Unit Tests (Services, Models, Api)
