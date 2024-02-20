@@ -3,6 +3,7 @@
 
 ## 📸Holiday Calendar
 <img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/hc.gif?raw=true" height="400" alt="Holiday Calendar Screenshot">
+<img src="https://github.com/WebSpruce/HolidayCalendar_Installer/blob/main/HC_Screenshots/unitTests.PNG" height="400" alt="Holiday Calendar Unit Tests">
 
 **<a href="https://appetize.io/app/mwze3fwo4nlcbscx5ntg7qw2ve?device=pixel7&osVersion=13.0" target=”_blank” style="font-size: 20px; color:#99aab5 ;">--> ONLINE DEMO AVAILABLE HERE <--</a>**
 
